@@ -46,3 +46,4 @@ activation1.forward(dense1.output)
 
 # Let's see output of the first few samples:
 print(activation1.output[:5])
+
